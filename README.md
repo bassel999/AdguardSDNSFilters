@@ -27,7 +27,7 @@ Choose a Blocklist that you want to import and copy the link.
 3- Press Add blocklist
 4- Add a custom List
 5- Enter the name and paste the URL and hit Save
-![image](https://user-images.githubusercontent.com/35703148/149049591-e3fee268-9cc5-477d-a2a7-9254a0a6a4c6.png)
+![image](https://user-images.githubusercontent.com/35703148/149050219-23275e53-a983-4858-8c43-7ea84092e717.png)
 
 
 
