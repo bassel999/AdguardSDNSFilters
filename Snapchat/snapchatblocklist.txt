@@ -1,5 +1,6 @@
 # Title: This blocklist blocks SnapChat Traffic
 # Description: Filter composed of SnapChat Traffic DNS
+# Fetch the latest version of this file: https://raw.githubusercontent.com/bassel999/AdguardSDNSFilters/main/Snapchat/snapchatblocklist.txt
 # Homepage: https://github.com^/bassel999/AdguardSDNSFilters
 # Last modified: 11 January 2022 13:11:00 (UTC)
 # ===============================================================
