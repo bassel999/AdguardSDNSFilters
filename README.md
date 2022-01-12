@@ -31,4 +31,4 @@ Choose a Blocklist that you want to import and copy the link.
 
 
 
-Credit for ```https://github.com/d43m0nhLInt3r/socialblocklists```
+Credit for ```https://github.com/d43m0nhLInt3r/socialblocklists``` @d43m0nhLInt3r
