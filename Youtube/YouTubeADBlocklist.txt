@@ -1,5 +1,10 @@
-# fork of https://github.com/kboghdady/youTube_ads_4_pi-hole/blob/master/black.list 20210105
-# this blocklist can cause issues with loading videos and its possible that ads can be displayed
+# Title: This blocklist blocks SnapChat Traffic
+# Description: Filter composed of SnapChat Traffic DNS
+# Fetch the latest version of this file: https://raw.githubusercontent.com/bassel999/AdguardSDNSFilters/main/Youtube/YouTubeADBlocklist.txt
+# Homepage: https://github.com^/bassel999/AdguardSDNSFilters
+# Last modified: 11 January 2022 13:11:00 (UTC)
+# ===============================================================
+||googleadservices.com^
 ||r1---sn-25ge7ns7.googlevideo.com^
 ||r1---sn-25ge7nsd.googlevideo.com^
 ||r1---sn-25ge7nse.googlevideo.com^
