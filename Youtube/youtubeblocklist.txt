@@ -1,0 +1,26 @@
+# Title: This blocklist blocks YouTube Traffic
+# Description: Filter composed of SnapChat Traffic DNS
+# Fetch the latest version of this file: https://raw.githubusercontent.com/bassel999/AdguardSDNSFilters/main/Youtube/youtubeblocklist.txt
+# Homepage: https://github.com^/bassel999/AdguardSDNSFilters
+# Last modified: 11 January 2022 13:11:00 (UTC)
+# ===============================================================
+
+||7.googlevideo.com^
+||clients6.google.com^
+||e.googlevideo.com^
+||googlevideo.com^
+||googlevideo.com^
+||i1.ytimg.com^
+||k.googlevideo.com^
+||s.googlevideo.com^
+||ssl-google-analytics.l.google.com^
+||youtu.be^
+||youtube.com^
+||youtube.googleapis.com^
+||youtubei.googleapis.com^
+||youtube-nocookie.com^
+||youtube-ui.l.google.com^
+||yt.moatads.com^
+||ytimg.com^
+||ytimg.l.google.com^
+||z.googlevideo.com^
