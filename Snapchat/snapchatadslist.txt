@@ -6,7 +6,7 @@
 # ===============================================================
 
 
-
+# Unblocked to make Snapchat work
 @@||aws.duplex.snapchat.com^$important
 @@||chat-gateway-prod.chat.snapchat.com^$important
 @@||pro-accounts.snapchat.com^$important
@@ -96,7 +96,6 @@
 ||us-central1-gcp.api.snapchat.com^
 ||webattachments.snapchat.com^
 ||d3cwhzzyyewihk.cloudfront.net^
-||aws.duplex.snapchat.com^
 ||internal-api.snapkit.com^
 ||eu-west1-aws.duplex.sc-gw.com^
 ||snapchat-proxy.appspot.com^
