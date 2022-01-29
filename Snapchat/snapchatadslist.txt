@@ -17,6 +17,9 @@
 @@||feelinsonice-mvm.l.google.com
 @@||feelinsonice-hrd.appspot.com
 @@||api.snapchat.com
+@@||sc-cdn.net^$important
+
+
 
 ||gcp.api.snapchat.com^$important
 ||us-east1-aws.api.snapchat.com^$important
@@ -42,7 +45,6 @@
 ||api.snapkit.com^
 
 # Other
-||sc-cdn.net^
 ||gcs.sc-cdn.net^
 ||jaguar-prod.snapchat.com^
 ||st.sc-jpl.com^
