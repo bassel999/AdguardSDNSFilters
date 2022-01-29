@@ -16,7 +16,6 @@
 @@||aws.api.snapchat.com^$important
 @@||feelinsonice-mvm.l.google.com
 @@||feelinsonice-hrd.appspot.com
-@@||app.snapchat.com
 @@||api.snapchat.com
 
 
@@ -31,7 +30,6 @@
 # Snapchat App
 ||feelinsonice-mvm.l.google.com^
 ||feelinsonice-hrd.appspot.com^
-||app.snapchat.com^
 ||mvm.snapchat.com^
 
 # Snapchat Login
