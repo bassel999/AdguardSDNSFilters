@@ -18,6 +18,8 @@
 @@||feelinsonice-hrd.appspot.com
 @@||api.snapchat.com
 
+||gcp.api.snapchat.com^$important
+||us-east1-aws.api.snapchat.com^$important
 
 # Snapchat Chat
 ||chat-gateway-prod.chat.snapchat.com^
