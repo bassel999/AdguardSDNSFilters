@@ -5,6 +5,21 @@
 # Last modified: 11 January 2022 13:11:00 (UTC)
 # ===============================================================
 
+
+
+@@||aws.duplex.snapchat.com^$important
+@@||chat-gateway-prod.chat.snapchat.com^$important
+@@||pro-accounts.snapchat.com^$important
+@@||app-analytics-v2.snapchat.com^$important
+@@||app.snapchat.com^$important
+@@||mvm.snapchat.com^$important
+@@||aws.api.snapchat.com^$important
+@@||feelinsonice-mvm.l.google.com
+@@||feelinsonice-hrd.appspot.com
+@@||app.snapchat.com
+@@||api.snapchat.com
+
+
 # Snapchat Chat
 ||chat-gateway-prod.chat.snapchat.com^
 
