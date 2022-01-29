@@ -50,7 +50,6 @@
 ||s.sc-cdn.net^
 ||cf-st.sc-cdn.net^
 ||bolt-gcdn.sc-cdn.net^
-||gcp.api.snapchat.com^
 ||us-east1-aws.api.snapchat.com^
 ||us-east4-gcp.api.snapchat.com^
 ||europe-west1-gcp.api.snapchat.com^
