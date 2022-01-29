@@ -6,6 +6,9 @@
 # ===============================================================
 
 
+||gcp.api.snapchat.com^$important
+||us-east1-aws.api.snapchat.com^$important
+
 # Unblocked to make Snapchat work
 @@||aws.duplex.snapchat.com^$important
 @@||chat-gateway-prod.chat.snapchat.com^$important
@@ -21,8 +24,7 @@
 
 
 
-||gcp.api.snapchat.com^$important
-||us-east1-aws.api.snapchat.com^$important
+
 
 # Snapchat Chat
 ||chat-gateway-prod.chat.snapchat.com^
