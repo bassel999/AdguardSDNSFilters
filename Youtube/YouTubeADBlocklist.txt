@@ -11,6 +11,11 @@ r3---sn-4g57kn7e.googlevideo.com
 r2---sn-4g5e6n7d.googlevideo.com
 r5---sn-5hne6n7s.googlevideo.com
 r18---sn-4g57knd7.googlevideo.com
+rr5---sn-j5caxoxu-hh06.googlevideo.com
+rr6---sn-j5caxoxu-hh0s.googlevideo.com
+rr5---sn-j5caxoxu-hh0e.googlevideo.com
+rr1---sn-j5caxoxu-hh06.googlevideo.com
+
 ||googleadservices.com^
 ||r1---sn-25ge7ns7.googlevideo.com^
 ||r1---sn-25ge7nsd.googlevideo.com^
